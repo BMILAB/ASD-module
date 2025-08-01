@@ -6,8 +6,8 @@ Cell-type-specific RUD matrices are first randomly partitioned into training and
 By integrating unsupervised module discovery with supervised prediction, this pipeline provides an interpretable and biologically grounded framework for elucidating the role of APA in ASD pathogenesis.
 # Requirements
 You'll need to install the following packages in order to run the codes.
-  +python==3.8
-  +R==4.3
+  * python==3.8
+  * R==4.3
 # Example codes
 ## preprocessing.R
 The data were cleaned by checking the quality of nuclei and genes, and removing a few nuclei from different cell cycle stages.
